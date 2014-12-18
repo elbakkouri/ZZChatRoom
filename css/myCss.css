@@ -1,0 +1,63 @@
+.btn-primary{
+		background-color: #660099;
+		border-color: #660099;
+		width:25%;
+		
+		
+		
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus .btn-primary:hover {
+	
+	color:#660099;
+	background-color: #FFFFCC;
+}
+
+.dropdown-menu>li>a{
+	color:#660099;
+	}
+.btn-primary:focus{
+	background-color:#660099;
+}
+.btn-primary:hover{
+	background-color:#660099;
+}
+.btn.active{
+	background-color:#660099;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	background-color:#FFFFCC;
+	
+}
+
+.navbar-default .navbar-nav>li>a{
+	color:#660099;
+	}
+.navbar-default .navbar-brand{
+	color:#660099;
+	}
+.label-default{
+	background-color:#660099;
+}
+.label{
+	color:#ffffff;
+}
+.list-group{
+	background-color:#FFFFCC;
+}
+h2, .h2{
+	color:#ffffff;
+	
+	background-color: #660099;
+	text-align:center;
+	
+	padding: 10px 16px;
+font-size: 18px;
+line-height: 1.33;
+border-radius: 6px;
+}
+element.style{
+	background-color: 
+}
+.form-signin-heading{
+	margin-top: 2cm;
+}
